@@ -1,4 +1,6 @@
 import monitor from './monitor.jpg'
+import ipad from './ipad.png'
+import phone from './phone.png'
 import './App.css';
 
 function App() {
@@ -10,8 +12,8 @@ function App() {
         </div>
         <div>
           <img src={monitor} alt="" />
-          <img src="" alt="" />
-          <img src="" alt="" />
+          <img src={ipad} alt="" />
+          <img src={phone} alt="" />
         </div>
         <div></div>
         <h1>Hello world1 </h1>
