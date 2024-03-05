@@ -35,7 +35,12 @@ button:hover {
   color:  rgb(255, 255, 255);
 }
 
-
+.start {
+  height: 100px;
+  background-color: red;
+  display: flex;
+  justify-content: space-between;
+}
 /* 
 .App-logo {
   height: 40vmin;
