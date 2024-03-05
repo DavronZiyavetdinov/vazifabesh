@@ -48,6 +48,12 @@ button:hover {
   justify-content: space-evenly;
   gap: 40px;
   color: white;
+  padding: 0 30px;
+}
+li {
+  list-style: none;
+  color: white;
+
 }
 /* 
 .App-logo {
