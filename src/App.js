@@ -22,19 +22,20 @@ function App() {
           </div>
         </div>
 
-    <div className="start">
-      <h1>Start Bootstrap</h1>
-
-      <ul>
-        <li>Davon</li>
-        <li>Abdumalik</li>
-        <li>Ruhshona</li>
-        <li>Va yana men</li>
-      </ul>
-    </div>
-
       </header>
 
+      <main>
+        <div className="start">
+          <h1>Start Bootstrap</h1>
+
+          <ul>
+            <li>Davon</li>
+            <li>Abdumalik</li>
+            <li>Ruhshona</li>
+            <li>Va yana men</li>
+          </ul>
+        </div>
+      </main>
 
     </div>
   );
