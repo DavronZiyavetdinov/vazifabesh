@@ -4,6 +4,7 @@
 header {
   height: 100px;
   background-color: red;
+  padding: 0 40px;
 }
 .box {
   display: flex;
@@ -16,8 +17,9 @@ header {
 }
 .right {
   display: flex;
-  gap: 20px;
-  
+  justify-content: space-between;
+  gap: 40px;
+
 }
 
 /* 
