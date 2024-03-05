@@ -28,7 +28,7 @@ function App() {
         <div className="start">
           <h1>Start Bootstrap</h1>
 
-          <ul>
+          <ul className='ulww'>
             <li>Davon</li>
             <li>Abdumalik</li>
             <li>Ruhshona</li>

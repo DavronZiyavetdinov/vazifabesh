@@ -6,6 +6,7 @@ header {
   background-color:bisque;
   padding: 0 40px;
 }
+
 .box {
   display: flex;
   align-items: center;
@@ -38,12 +39,15 @@ button:hover {
 .start {
 
   height: 100px;
-  background-color: red;
+  background-color: rgb(6, 6, 6);
   display: flex;
   justify-content: space-between;
 }
-ul {
+.ulww {
   display: flex;
+  justify-content: space-evenly;
+  gap: 40px;
+  color: white;
 }
 /* 
 .App-logo {
