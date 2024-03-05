@@ -42,6 +42,9 @@ button:hover {
   display: flex;
   justify-content: space-between;
 }
+ul {
+  display: flex;
+}
 /* 
 .App-logo {
   height: 40vmin;
