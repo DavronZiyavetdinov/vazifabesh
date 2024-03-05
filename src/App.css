@@ -3,7 +3,7 @@
 }
 header {
   height: 100px;
-  background-color: red;
+  background-color:bisque;
   padding: 0 40px;
 }
 .box {
@@ -20,6 +20,13 @@ header {
   justify-content: space-between;
   gap: 40px;
 
+}
+button {
+  background-color: rgba(200, 59, 59, 0.503);
+  color: red;
+  border-radius: 10px;
+  border: none;
+  padding: 10px 20px;
 }
 
 /* 
