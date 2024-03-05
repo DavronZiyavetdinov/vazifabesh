@@ -52,8 +52,11 @@ button:hover {
 }
 li {
   list-style: none;
-  color: white;
 
+
+}
+h1 {
+  color: white;
 }
 /* 
 .App-logo {
