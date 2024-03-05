@@ -15,7 +15,10 @@ function App() {
           <img src={ipad} alt="" />
           <img src={phone} alt="" />
         </div>
-        <div></div>
+        <div>
+          <h3>git</h3>
+          <button>Free Download</button>
+        </div>
         <h1>Hello world1 </h1>
 
       </header>
