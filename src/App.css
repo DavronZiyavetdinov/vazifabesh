@@ -27,7 +27,13 @@ button {
   border-radius: 10px;
   border: none;
   padding: 10px 20px;
+  transition: 1s;
 }
+button:hover {
+  background-color: red;
+  color:  rgba(200, 59, 59, 0.503);
+}
+
 
 /* 
 .App-logo {
