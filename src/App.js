@@ -17,7 +17,7 @@ function App() {
           <img className='img_1' src={phone} alt="" />
         </div>
         <div>
-          <h3>git</h3>
+         <span>Git</span>
           <button>Free Download</button>
         </div>
         </div>
