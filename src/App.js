@@ -7,18 +7,21 @@ function App() {
   return (
     <div className="App">
       <header>
+        <div className="box">
         <div>
           <h2>Owerview Page</h2>
         </div>
         <div>
-          <img src={monitor} alt="" />
-          <img src={ipad} alt="" />
-          <img src={phone} alt="" />
+          <img className='img_1' src={monitor} alt="" />
+          <img className='img_1' src={ipad} alt="" />
+          <img className='img_1' src={phone} alt="" />
         </div>
         <div>
           <h3>git</h3>
           <button>Free Download</button>
         </div>
+        </div>
+        
         <h1>Hello world1 </h1>
 
       </header>
