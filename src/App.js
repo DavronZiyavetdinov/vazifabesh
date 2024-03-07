@@ -42,6 +42,7 @@ function App() {
       <div className="leftww">
         <div className='left-ss1'>
           <h4>Search</h4>
+        
           <input type="text" placeholder='Enter search term...' />
           <button className='sasasa'>Go</button>
           <hr />
