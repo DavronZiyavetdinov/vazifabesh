@@ -1,9 +1,11 @@
 .App {
   text-align: center;
 }
+
+
 header {
   height: 100px;
-  background-color:bisque;
+  background-color: bisque;
   padding: 0 40px;
 }
 
@@ -12,17 +14,20 @@ header {
   align-items: center;
   justify-content: space-between;
 }
+
 .img_1 {
   width: 32px;
   height: 32px;
   margin-left: 40px;
 }
+
 .right {
   display: flex;
   justify-content: space-between;
   gap: 40px;
 
 }
+
 button {
   background-color: rgba(200, 59, 59, 0.503);
   color: red;
@@ -31,9 +36,10 @@ button {
   padding: 10px 20px;
   transition: 1s;
 }
+
 button:hover {
   background-color: red;
-  color:  rgb(255, 255, 255);
+  color: rgb(255, 255, 255);
 }
 
 .start {
@@ -43,6 +49,7 @@ button:hover {
   display: flex;
   justify-content: space-between;
 }
+
 .ulww {
   display: flex;
   justify-content: space-evenly;
@@ -50,13 +57,144 @@ button:hover {
   color: white;
   padding: 0 30px;
 }
+
 li {
   list-style: none;
 
 
 }
+
 h1 {
   color: white;
+}
+
+.fotos {
+  width: 600px;
+  height: 500px;
+  border-radius: 20px;
+  margin-top: -390px;
+  margin-left: 209px;
+  border: 1px solid black;
+}
+
+.big-foto {
+
+  img {
+    width: 600px;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+  }
+}
+
+.fotosss {
+  height: 900px;
+  margin-top: 50px;
+
+}
+
+.foto_1 {
+  width: 300px;
+  height: 300px;
+  border: 2px solid black;
+  height: 500px;
+  border-radius: 20px;
+}
+
+.foto_2 {
+  width: 300px;
+  height: 300px;
+  border: 2px solid black;
+  height: 500px;
+  position: relative;
+  bottom: 503px;
+  left: 320px;
+  border-radius: 20px;
+}
+
+.foto_3 {
+  width: 300px;
+  height: 300px;
+  border: 2px solid black;
+  height: 500px;
+  border-radius: 20px;
+  position: relative;
+  bottom: 500px;
+}
+
+.foto_4 {
+  width: 300px;
+  height: 300px;
+  border: 2px solid black;
+  height: 500px;
+  border-radius: 20px;
+  position: relative;
+  bottom: 1003px;
+  left: 320px;
+}
+
+.fff-222 {
+  width: 300px;
+  border-top-left-radius: 20px;
+  border-top-right-radius: 20px;
+}
+
+.buttons {
+  position: absolute;
+  top: 1890px;
+  left: 300px
+}
+
+footer {
+  height: 100px;
+  text-align: center;
+  color: white;
+  position: relative;
+  top: 1130px;
+  background-color: #333333;
+}
+
+.leftww {
+  width: 300px;
+  height: 480px;
+  border: 2px solid #333333;
+  margin-left: 900px;
+  position: relative;
+  top: 115px;
+  border-radius: 20px;
+}
+
+input {
+  padding: 15px 20px;
+  margin-right: 47px;
+}
+
+.sasasa {
+  position: relative;
+  bottom: 43px;
+  left: 116px;
+}
+
+.types_1 {
+  display: flex;
+  gap: 5px;
+
+}
+span {
+margin-left: 20px;  
+color: blue;
+}
+.types_2 {
+
+  display: flex;
+  gap: 5px;
+}
+.left-ss3 {
+
+
+
+}
+p {
+  font-size: 15px;
 }
 /* 
 .App-logo {
